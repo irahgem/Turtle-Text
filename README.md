@@ -57,6 +57,8 @@ To generate text we will be using GPT2 model which helps to generate large texts
 
 **Share :** We have implemented share your content feature using twilio api. It provided us to share our content at ease to any person all around the world with just a mobile number.
 
+![WhatsApp Image 2023-03-05 at 11 44 11 AM](https://user-images.githubusercontent.com/72067722/222948399-4d9ca560-8781-4dbd-b371-5ebb1e0be8c2.jpeg)
+
 ## How we built it
 
 NLP and Deep learning approaches can be used to execute operations on text, and they offer improved consistency. We used 'Auth0' to implement user authentication. Users can input links to their blogs or videos, which our deep learning model will then process and output a text summary of. For processing our text, we use the DistilBERT deep learning model, which was trained on a very large corpus of unlabeled text, including the entirety of Wikipedia (2,500 million words) and the Book Corpus (800 million words). Also, users can input text documents that can be summarised. Furthermore we provide a text eloborating feature where users can input a small text which will be eloborated to large texts. Working with GPT-2 (Generative Pre-trained Transformer) models that were trained using the WebText data set will help us achieve this. We'll offer multiple interfaces, including a web application, a mobile app, and a browser extension, so customers can easily complete their desired actions with a single click.
