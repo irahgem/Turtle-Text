@@ -90,3 +90,7 @@ NLP and Deep learning approaches can be used to execute operations on text, and 
 - Creating a mobile app using Flutter to make it easy for people to access in mobile interface .
 - Improving the model's performance . 
 - Adding additional features such as audio summarization and gesture summarization .
+
+## Demo
+
+https://user-images.githubusercontent.com/72067722/222955292-0b5228c4-d859-4cca-b17c-54cb4b6b081e.mp4
